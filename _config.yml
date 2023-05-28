@@ -1,0 +1,11 @@
+title: meadow
+description: Documents, galore!
+
+theme: jekyll-theme-modernist
+
+show_downloads: false
+
+include:
+  - index.md
+  - full-list.md
+  - docs/*.md
